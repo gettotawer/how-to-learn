@@ -18,7 +18,7 @@
   max-height: 756px;
   background-color: #f2f2f2;
   position: relative;
-  overflow: hidden
+  overflow: hidden;
 }
 
 .header__title{
@@ -231,7 +231,7 @@ color: #2F80ED;
   background-color: black;
   flex-direction: column;
   align-items: center;
-  overflow: hidden
+  overflow: hidden;
 }
 
 .section-title_theme_dark{
